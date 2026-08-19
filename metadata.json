@@ -1,0 +1,6 @@
+{
+  "name": "ترک عادت",
+  "description": "اپلیکیشن هوشمند و انگیزشی ترک سیگار و خودارضایی با سیستم پاکسازی تصاعدی شخصیت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
